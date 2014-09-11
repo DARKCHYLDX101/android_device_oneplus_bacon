@@ -42,14 +42,14 @@
     "revision": "cm-11.0"
   },
   {
-    "remote": "gh",
-    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "remote": "tm",
+    "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "cm-11.0"
   },
   {
-    "remote": "gh",
-    "repository": "TheMuppets/proprietary_vendor_oppo",
+    "remote": "tm",
+    "repository": "proprietary_vendor_oppo",
     "target_path": "vendor/oppo",
     "revision": "cm-11.0"
   }
